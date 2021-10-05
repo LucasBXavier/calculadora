@@ -1,0 +1,49 @@
+
+body{
+    font: normal 16pt arial;
+    background-color: rgba(14, 17, 218, 0.336);
+    text-align: center;
+
+}
+
+p{
+    font: normal 23pt arial;
+    margin-top: 30px;
+    padding: 20px;
+}
+hr{
+    border-color: black;
+    
+}
+input{
+    font: normal 18pt arial;
+    width: 100px;
+    border-radius: 24px;
+    border-color: rgba(5, 85, 233, 0.507);
+    background: none;
+
+}
+input[type = button]{
+    font: normal 14pt arial;
+}
+input[type = button]:hover{
+    background: rgba(5, 85, 233, 0.507);
+}
+div#res{
+    margin-top: 20px;
+    padding: 30px;
+}
+div#res2{
+    margin-top: 20px;
+    padding: 30px;
+
+}
+div#res3{
+    margin-top: 20px;
+    padding: 30px;
+}
+
+div#res4{
+    margin-top: 20px;
+    padding: 30px;
+}
